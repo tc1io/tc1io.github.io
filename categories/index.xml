@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on tc1 GmbH</title>
+    <link>https://tc1.io/categories/</link>
+    <description>Recent content in Categories on tc1 GmbH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Sep 2019 15:24:04 +0600</lastBuildDate><atom:link href="https://tc1.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Innovation</title>
+      <link>https://tc1.io/categories/innovation/</link>
+      <pubDate>Thu, 05 Sep 2019 15:24:04 +0600</pubDate>
+      
+      <guid>https://tc1.io/categories/innovation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latest News</title>
+      <link>https://tc1.io/categories/latest-news/</link>
+      <pubDate>Thu, 05 Sep 2019 15:24:04 +0600</pubDate>
+      
+      <guid>https://tc1.io/categories/latest-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social</title>
+      <link>https://tc1.io/categories/social/</link>
+      <pubDate>Thu, 05 Sep 2019 15:24:04 +0600</pubDate>
+      
+      <guid>https://tc1.io/categories/social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://tc1.io/categories/software/</link>
+      <pubDate>Thu, 05 Sep 2019 15:24:04 +0600</pubDate>
+      
+      <guid>https://tc1.io/categories/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trends</title>
+      <link>https://tc1.io/categories/trends/</link>
+      <pubDate>Thu, 05 Sep 2019 15:24:04 +0600</pubDate>
+      
+      <guid>https://tc1.io/categories/trends/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
