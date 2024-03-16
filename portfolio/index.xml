@@ -1,65 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Our Portfolio on tc1 GmbH</title>
+    <title>Our Portfolio on tc1 GmbH &amp; Co KG</title>
     <link>https://tc1.io/portfolio/</link>
-    <description>Recent content in Our Portfolio on tc1 GmbH</description>
+    <description>Recent content in Our Portfolio on tc1 GmbH &amp; Co KG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Sep 2019 15:24:04 +0600</lastBuildDate><atom:link href="https://tc1.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Sep 2019 15:24:04 +0600</lastBuildDate>
+    <atom:link href="https://tc1.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project california</title>
       <link>https://tc1.io/portfolio/new-project-1/</link>
       <pubDate>Thu, 05 Sep 2019 15:24:04 +0600</pubDate>
-      
       <guid>https://tc1.io/portfolio/new-project-1/</guid>
       <description>Engaging content and flexible User experience help to grow more Lorem Ipsum is simply dummy text of the printing and typesetting industry.</description>
     </item>
-    
     <item>
       <title>Project california</title>
       <link>https://tc1.io/portfolio/new-project-2/</link>
       <pubDate>Thu, 05 Sep 2019 15:24:04 +0600</pubDate>
-      
       <guid>https://tc1.io/portfolio/new-project-2/</guid>
       <description>Engaging content and flexible User experience help to grow more Lorem Ipsum is simply dummy text of the printing and typesetting industry.</description>
     </item>
-    
     <item>
       <title>Project california</title>
       <link>https://tc1.io/portfolio/new-project-3/</link>
       <pubDate>Thu, 05 Sep 2019 15:24:04 +0600</pubDate>
-      
       <guid>https://tc1.io/portfolio/new-project-3/</guid>
       <description>Engaging content and flexible User experience help to grow more Lorem Ipsum is simply dummy text of the printing and typesetting industry.</description>
     </item>
-    
     <item>
       <title>Project california</title>
       <link>https://tc1.io/portfolio/new-project-4/</link>
       <pubDate>Thu, 05 Sep 2019 15:24:04 +0600</pubDate>
-      
       <guid>https://tc1.io/portfolio/new-project-4/</guid>
       <description>Engaging content and flexible User experience help to grow more Lorem Ipsum is simply dummy text of the printing and typesetting industry.</description>
     </item>
-    
     <item>
       <title>Project california</title>
       <link>https://tc1.io/portfolio/new-project-5/</link>
       <pubDate>Thu, 05 Sep 2019 15:24:04 +0600</pubDate>
-      
       <guid>https://tc1.io/portfolio/new-project-5/</guid>
       <description>Engaging content and flexible User experience help to grow more Lorem Ipsum is simply dummy text of the printing and typesetting industry.</description>
     </item>
-    
     <item>
       <title>Project california</title>
       <link>https://tc1.io/portfolio/new-project-6/</link>
       <pubDate>Thu, 05 Sep 2019 15:24:04 +0600</pubDate>
-      
       <guid>https://tc1.io/portfolio/new-project-6/</guid>
       <description>Engaging content and flexible User experience help to grow more Lorem Ipsum is simply dummy text of the printing and typesetting industry.</description>
     </item>
-    
   </channel>
 </rss>
